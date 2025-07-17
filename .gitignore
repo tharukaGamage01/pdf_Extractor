@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PDF and data files
+*.pdf
+*.json
+
+# dotenv
+.env
+
+# Logs
+*.log
+
+# Jupyter Notebooks
+*.ipynb
